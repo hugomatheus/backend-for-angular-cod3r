@@ -1,0 +1,7 @@
+{
+    "products": [
+        {"id": 1, "name": "Caneta BIC preta", "price": 5.89},
+        {"id": 2, "name": "Notebook Mac", "price": 15000.89},
+        {"id": 3, "name": "Iphone 11", "price": 5600}
+]
+}
